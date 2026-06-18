@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="#F5F2EC">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Checklist"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#20252B"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abra a versão web para utilizar o checklist e visualizar relatórios."
+        android:textSize="16sp"
+        android:textColor="#66717C"
+        android:gravity="center"
+        android:layout_marginBottom="28dp" />
+
+    <Button
+        android:id="@+id/webButton"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Abrir versão web"
+        android:textAllCaps="false"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+</LinearLayout>
