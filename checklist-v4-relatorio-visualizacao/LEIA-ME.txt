@@ -1,0 +1,4 @@
+1. Envie checklist.html para a raiz do repositório checklist-wagner.
+2. O novo link será: https://wagnerliborioporto.github.io/checklist-wagner/checklist.html
+3. Envie o conteúdo da pasta android para o repositório checklist-android.
+4. Baixe o novo APK gerado em Actions.
