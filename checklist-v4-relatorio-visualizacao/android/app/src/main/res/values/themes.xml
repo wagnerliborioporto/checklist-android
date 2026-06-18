@@ -1,9 +1,0 @@
-<resources>
-    <style name="Theme.Checklist" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">#146C62</item>
-        <item name="colorPrimaryVariant">#0D5C53</item>
-        <item name="colorOnPrimary">#FFFFFF</item>
-        <item name="android:statusBarColor">#146C62</item>
-        <item name="android:navigationBarColor">#146C62</item>
-    </style>
-</resources>

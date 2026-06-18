@@ -1,5 +1,0 @@
-<resources>
-    <style name="Theme.Checklist" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:windowBackground">#FFFFFF</item>
-    </style>
-</resources>
